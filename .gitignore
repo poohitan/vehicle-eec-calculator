@@ -1,5 +1,8 @@
 # Created by .gitignore support plugin (hsz.mobi)
 
+/db/*
+*.sqlite
+
 .tmp
 .DS_Store
 *.pem
